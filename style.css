@@ -1,0 +1,10 @@
+.rocket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+}
+
+#filedrop-rocket_svg__Layer_1 {
+    scale: 20;
+}
